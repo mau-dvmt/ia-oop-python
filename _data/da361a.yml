@@ -72,8 +72,8 @@ exercises:
     - name: Laboration 4
       file: L04
 
-#    - name: Laboration 5
-#      file: L05
+    - name: Laboration 5
+      file: L03
 
 # - name: Laboration 6
 #   file: E06
