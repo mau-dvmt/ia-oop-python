@@ -14,9 +14,9 @@ Kursens syfte är att studenten ska utveckla kunskaper och färdigheter inom obj
 
 Den fullständiga kursplanen finner ni [här][kursplan].
 
-## Inlämning
+## Inlämning av uppgifter
 
-Samtliga inlämningar sker via platformen [It's Learning][itslearning] och lämnas in på ett av två vis:
+Samtliga inlämningar sker via platformen [Canvas][canvas] och lämnas in på ett av två vis:
 
 * Uppgifter **ska** lämnas in i formatet `zip`, namnge din fil enligt följande mall: `inl1_lisa_n_da361a.zip`. Endast den komprimerade filen behöver följa denna mallen, det vill säga att du behöver inte döpa om alla dina filer.
 
@@ -30,7 +30,7 @@ Tänk på att du gör uppgifterna för att lära dig. Så länge du använt alla
 
 ## Kursöversikt
 
-Kursen har ett övergripande upplägg med föreläsning och laborationer varje vecka.
+Kursen har ett övergripande upplägg med föreläsningar och laborationer varje vecka.
 
 **Examination**
 
@@ -39,8 +39,8 @@ Kursen har ett övergripande upplägg med föreläsning och laborationer varje v
 
 ## Lärare
 
-* Anton Tibblin (anton.tibblin@mah.se) - <em>kursansvarig</em>
-* Aleksander Fabijan (aleksander.fabijan@mah.se)
+* [Anton Tibblin](https://mau.se/personer/anton.tibblin/) ([anton.tibblin@mau.se](mailto:anton.tibblin@mau.se)) - <em>kursansvarig</em>
+* [Johan Holmberg](https://mau.se/personer/johan.holmberg/) ([johan.holmber@mau.se](mailto:johan.holmber@mau.se))
 
 ## Länkar
 
@@ -49,5 +49,5 @@ Kursen har ett övergripande upplägg med föreläsning och laborationer varje v
 * [Canvas][canvas]
 
 [kursplan]: /courses/da361a/syllabus.html "Gå till kursplanen"
-[schema]: http://schema.mah.se/setup/jsp/Schema.jsp?startDatum=idag&intervallTyp=m&intervallAntal=6&sprak=SV&sokMedAND=true&forklaringar=true&resurser=k.DA361A-20172-TS795- "Gå till schemat"
-[canvas]: https://www.mah.se/ext/Canvas/ "Gå till It's learning"
+[schema]:http://schema.mau.se/setup/jsp/Schema.jsp?intervallTyp=m&sprak=SV&forklaringar=true&sokMedAND=true&intervallAntal=6&startDatum=idag&resurser=k.DA361A-20192-TS094- "Gå till schemat"
+[canvas]: https://www.mah.se/ext/Canvas/ "Gå till Canvas"
