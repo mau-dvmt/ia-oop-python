@@ -8,7 +8,7 @@ title: Planering - Objektorienterad programmering och modellering DA361A (7.5 hp
 
 För enkelhetens skull är alla viktiga datum och tider sammanställda här. För att undvika motsägande information är salar inte angivna - [se det officiella schemat](http://schema.mau.se/setup/jsp/Schema.jsp?intervallTyp=m&sprak=SV&forklaringar=true&sokMedAND=true&intervallAntal=6&startDatum=idag&resurser=k.DA361A-20192-TS094-).
 
-Labbtillfällena är i grunden fria att disponera, men i tabellen nedan anges så långt man minst bör sträva efter att komma. (Det skadar aldrig att jobba med senare delar!). Genom att aktivt delta i laborationerna så får man tillgodoräkna sig <strong>0.5p</strong> per laboration i kursen (detta är per laboration, och inte per tillfälle. Extratillfälle för laborationer kommer således inte kunna ge extra poäng)
+Labbtillfällena är i grunden fria att disponera, men i tabellen nedan anges så långt man minst bör sträva efter att komma. (Det skadar aldrig att jobba med senare delar!). Genom att aktivt delta i laborationerna så får man tillgodoräkna sig <strong>0.5p</strong> per laboration i kursen på ordinarie tentamentillfälle (detta är per laboration, och inte per tillfälle). Extratillfälle för laborationer kommer således inte kunna ge extra poäng)
 
 <table class="table" id="plan">
     <tr class="odd header">
