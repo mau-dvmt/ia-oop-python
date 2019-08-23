@@ -28,14 +28,14 @@ Labbtillfällena är i grunden fria att disponera, men i tabellen nedan anges s�
     <tr class="lecture even">
         <td>5/9</td>
         <td>13-17</td>
-        <td>Föreläsning - Intro till UML & OOAD (1)</td>
+        <td>Föreläsning - Intro till UML, OOAD & OOP (1)</td>
         <td>Johan</td>
     </tr>
     <tr class="lecture odd">
         <td rowspan="3">37</td>
         <td>9/9</td>
         <td>13-15</td>
-        <td>Föreläsning - Intro till UML & OOAD (2)</td>
+        <td>Föreläsning - Intro till UML, OOAD & OOP (2)</td>
         <td>Johan</td>
     </tr>
     <tr class="lecture odd">
@@ -54,7 +54,7 @@ Labbtillfällena är i grunden fria att disponera, men i tabellen nedan anges s�
         <td rowspan="2">38</td>
         <td>16/9</td>
         <td>13-15</td>
-        <td>Föreläsning - Grunder i OOP</td>
+        <td>Föreläsning - Grunder i UML, OOAD & OOP (3)</td>
         <td>Johan</td>
     </tr>
     <tr class="laboration even">
