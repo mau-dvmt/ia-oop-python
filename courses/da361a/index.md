@@ -40,7 +40,7 @@ Kursen har ett övergripande upplägg med föreläsningar och laborationer varje
 ## Lärare
 
 * [Anton Tibblin](https://mau.se/personer/anton.tibblin/) ([anton.tibblin@mau.se](mailto:anton.tibblin@mau.se)) - <em>kursansvarig</em>
-* [Johan Holmberg](https://mau.se/personer/johan.holmberg/) ([johan.holmber@mau.se](mailto:johan.holmber@mau.se))
+* [Johan Holmberg](https://mau.se/personer/johan.holmberg/) ([johan.holmberg@mau.se](mailto:johan.holmberg@mau.se))
 
 ## Länkar
 
