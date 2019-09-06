@@ -22,13 +22,13 @@ Labbtillfällena är i grunden fria att disponera, men i tabellen nedan anges s�
         <td rowspan="2">36</td>
         <td>2/9</td>
         <td>13-15</td>
-        <td>Kursintroduktion</td>
+        <td><a href="/courses/da361a/lectures/F00.html">Kursintroduktion</a></td>
         <td>Johan (& Anton)</td>
     </tr>
     <tr class="lecture even">
         <td>5/9</td>
         <td>13-17</td>
-        <td>Föreläsning - Intro till UML, OOAD & OOP (1)</td>
+        <td><a href="/courses/da361a/lectures/F01.html">Föreläsning - Intro till UML, OOAD & OOP (1)</a></td>
         <td>Johan</td>
     </tr>
     <tr class="lecture odd">
