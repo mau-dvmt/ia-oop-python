@@ -35,7 +35,7 @@ Labbtillfällena är i grunden fria att disponera, men i tabellen nedan anges s�
         <td rowspan="3">37</td>
         <td>9/9</td>
         <td>13-15</td>
-        <td>Föreläsning - Intro till UML, OOAD & OOP (2)</td>
+        <td><a href="/courses/da361a/lectures/F02.html">Föreläsning - Intro till UML, OOAD & OOP (2)</a></td>
         <td>Johan</td>
     </tr>
     <tr class="lecture odd">
