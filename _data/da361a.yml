@@ -13,8 +13,14 @@ exams: true
 
 # Föreläsningar
 lectures:
-#    - name: Kursintroduktion
-#      file: F00
+    - name: Kursintroduktion
+      file: F00
+
+    - name: Introduktion till UML, OOAD & OOP, del 1
+      file: F01
+
+    - name: Introduktion till UML, OOAD & OOP, del 2
+      file: F02
 
 # Uppgifter
 
