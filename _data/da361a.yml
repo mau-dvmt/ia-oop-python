@@ -22,6 +22,9 @@ lectures:
     - name: Introduktion till UML, OOAD & OOP, del 2
       file: F02
 
+    - name: Python repetition
+      file: F03
+
 # Uppgifter
 
 assignments:

@@ -41,7 +41,7 @@ Labbtillfällena är i grunden fria att disponera, men i tabellen nedan anges s�
     <tr class="lecture odd">
         <td>11/9</td>
         <td>08-12</td>
-        <td>Föreläsning/<a href="/courses/da361a/exercises/L00.html">Labb</a> - Python, återblick</td>
+        <td><a href="/courses/da361a/lectures/F03.html">Föreläsning</a>/<a href="/courses/da361a/exercises/L00.html">Labb</a> - Python, återblick</td>
         <td>Anton</td>
     </tr>
     <tr class="laboration odd">
