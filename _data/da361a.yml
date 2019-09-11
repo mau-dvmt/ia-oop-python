@@ -36,14 +36,11 @@ exercises:
     - name: 1. Python, återblick
       file: L00
 
-    - name: 2. OOP i Python (1)
+    - name: 2. UML & OOAD
       file: L01
 
-#    - name: Laboration 1
-#      file: L01
-
-#    - name: Laboration 2
-#      file: L02
+    - name: 3. OOP i Python (1)
+      file: L02
 
 #    - name: Laboration 3
 #      file: L07
