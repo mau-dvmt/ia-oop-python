@@ -11,3 +11,5 @@ Här hittar ni kursens föreläsningar
 1. [Föreläsning 1: Kursintroduktion](lectures/F00.md)
 2. [Föreläsning 2: Introduktion till UML, OOAD & OOP, del 1](lectures/F01.md)
 3. [Föreläsning 3: Introduktion till UML, OOAD & OOP, del 2](lectures/F02.md)
+3. [Python, återblick](lectures/F03.md)
+5. [Föreläsning 4: Introduktion till UML, OOAD & OOP, del 3](lectures/F04.md)
