@@ -58,10 +58,10 @@ Labbtillfällena är i grunden fria att disponera, men i tabellen nedan anges s�
         <td>Johan</td>
     </tr>
     <tr class="laboration even">
-        <td>19/9</td>
-        <td>13-17</td>
-        <td>Labb - Grunder i OOP</td>
-        <td>Johan</td>
+        <td><strike>19/9</strike></td>
+        <td><strike>13-17</strike></td>
+        <td><strike>Labb - Grunder i OOP</strike></td>
+        <td><strike>Johan</strike></td>
     </tr>
     <tr class="lecture odd">
         <td rowspan="2">39</td>
