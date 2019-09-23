@@ -54,7 +54,7 @@ Labbtillfällena är i grunden fria att disponera, men i tabellen nedan anges s�
         <td rowspan="2">38</td>
         <td>16/9</td>
         <td>13-15</td>
-        <td><a href="/courses/da361a/exercises/L02.html">Föreläsning - Grunder i UML, OOAD & OOP (3)</a></td>
+        <td><a href="/courses/da361a/exercises/F04.html">Föreläsning - Grunder i UML, OOAD & OOP (3)</a></td>
         <td>Johan</td>
     </tr>
     <tr class="laboration even">
@@ -67,7 +67,7 @@ Labbtillfällena är i grunden fria att disponera, men i tabellen nedan anges s�
         <td rowspan="2">39</td>
         <td>23/9</td>
         <td>15-17</td>
-        <td>Föreläsning - OOP i Python (1)</td>
+        <td>Föreläsning - <a href="/courses/da361a/lectures/F05.html">OOP i Python (1)</a></td>
         <td>Anton</td>
     </tr>
     <tr class="laboration odd">
