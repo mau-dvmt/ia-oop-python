@@ -77,7 +77,7 @@ Labbtillfällena är i grunden fria att disponera, men i tabellen nedan anges s�
         <td>Anton</td>
     </tr>
     <tr class="lecture even">
-        <td rowspan="3">40</td>
+        <td rowspan="2">40</td>
         <td>30/9</td>
         <td>13-15</td>
         <td>Föreläsning - OOP i Python (2)</td>
@@ -89,14 +89,8 @@ Labbtillfällena är i grunden fria att disponera, men i tabellen nedan anges s�
         <td>Labb - OOP i Python (2)</td>
         <td>Anton</td>
     </tr>
-    <tr class="tenta even">
-        <td>6/10</td>
-        <td></td>
-        <td><em><strong>Deadline: Inlämningsuppgift 1</strong></em></td>
-        <td></td>
-    </tr>
     <tr class="lecture odd">
-        <td rowspan="2">41</td>
+        <td rowspan="3">41</td>
         <td>7/10</td>
         <td>15-17</td>
         <td>Föreläsning - Klassdiagram <><br> Sekvensdiagram <> Källkod</td>
@@ -108,6 +102,12 @@ Labbtillfällena är i grunden fria att disponera, men i tabellen nedan anges s�
 		<td>Labb - Klassdiagram <><br> Sekvensdiagram <> Källkod</td>
         <td>Johan & Anton</td>
 	</tr>
+    <tr class="tenta odd">
+        <td>13/10</td>
+        <td></td>
+        <td><em><strong>Deadline: Inlämningsuppgift 1</strong></em></td>
+        <td></td>
+    </tr>
   <tr class="lecture even">
         <td rowspan="2">42</td>
         <td>14/10</td>
