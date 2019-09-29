@@ -86,7 +86,7 @@ Labbtillfällena är i grunden fria att disponera, men i tabellen nedan anges s�
     <tr class="laboration even">
         <td>3/10</td>
         <td>13-17</td>
-        <td>Labb - OOP i Python (2)</td>
+        <td><a href="/courses/da361a/exercises/L04.html">Labb - OOP i Python (2)</a></td>
         <td>Anton</td>
     </tr>
     <tr class="lecture odd">

@@ -43,17 +43,17 @@ assignments:
 
 # Laborationer
 exercises:
-    - name: 1. Python, återblick
+    - name: 0. Python, återblick
       file: L00
 
-    - name: 2. UML & OOAD
+    - name: 1. UML & OOAD
       file: L01
 
-    - name: 3. OOP i Python (1)
+    - name: 2. OOP i Python (1)
       file: L02
 
-#    - name: Laboration 3
-#      file: L07
+    - name: 3. OOP i Python (2)
+      file: L04
 
 #    - name: Laboration 4
 #      file: L04
