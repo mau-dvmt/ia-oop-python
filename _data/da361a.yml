@@ -28,8 +28,11 @@ lectures:
     - name: Introduktion till UML, OOAD & OOP, del 3
       file: F04
 
-    - name: OOP i Python
+    - name: OOP i Python (1)
       file: F05
+
+    - name: OOP i Python (2)
+      file: F06
 
 
 # Uppgifter
