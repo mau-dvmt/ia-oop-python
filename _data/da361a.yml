@@ -39,7 +39,7 @@ lectures:
 
 assignments:
     - name: Uppgift 1
-     file: U01
+      file: U01
 
 #    - name: Uppgift 2
 #      file: U02
