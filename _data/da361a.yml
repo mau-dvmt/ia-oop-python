@@ -34,6 +34,9 @@ lectures:
     - name: OOP i Python (2)
       file: F06
 
+    - name: Konsistens mellan diagram och källkod
+      file: F07
+
 
 # Uppgifter
 
