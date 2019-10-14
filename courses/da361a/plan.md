@@ -80,7 +80,7 @@ Labbtillfällena är i grunden fria att disponera, men i tabellen nedan anges s�
         <td rowspan="2">40</td>
         <td>30/9</td>
         <td>13-15</td>
-        <td>Föreläsning - OOP i Python (2)</td>
+        <td>Föreläsning -<a href="/courses/da361a/lectures/F06.html"> OOP i Python (2)</a></td>
         <td>Anton</td>
     </tr>
     <tr class="laboration even">
@@ -93,13 +93,13 @@ Labbtillfällena är i grunden fria att disponera, men i tabellen nedan anges s�
         <td rowspan="3">41</td>
         <td>7/10</td>
         <td>15-17</td>
-        <td>Föreläsning - Klassdiagram <><br> Sekvensdiagram <> Källkod</td>
+        <td>Föreläsning - Klassdiagram <><br> <a href="/courses/da361a/lectures/F07.html">Sekvensdiagram <> Källkod</a></td>
         <td>Johan</td>
     </tr>
 	<tr class="laboration odd">
 		<td>10/10</td>
 		<td>13-17</td>
-		<td>Labb - Klassdiagram <><br> Sekvensdiagram <> Källkod</td>
+		<td>Labb - Klassdiagram <><br> <a href="/courses/da361a/exercises/L08.html">Sekvensdiagram <> Källkod</a></td>
         <td>Johan & Anton</td>
 	</tr>
     <tr class="tenta odd">
@@ -112,7 +112,7 @@ Labbtillfällena är i grunden fria att disponera, men i tabellen nedan anges s�
         <td rowspan="2">42</td>
         <td>14/10</td>
         <td>13-17</td>
-        <td>Föreläsning/Labb - Mer OOP i Python</td>
+        <td>Föreläsning/Labb - <a href="/courses/da361a/exercises/L06.html">Mer OOP i Python</a></td>
         <td>Anton</td>
     </tr>
     <tr class="lecture even">

@@ -62,7 +62,7 @@ exercises:
       file: L04
 
     - name: 4. Laboration, tävling
-      file: L04
+      file: L08
 
     - name: 5. Mer OOP i Python
       file: L06
