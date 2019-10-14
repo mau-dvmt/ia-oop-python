@@ -37,6 +37,9 @@ lectures:
     - name: Konsistens mellan diagram och källkod
       file: F07
 
+    - name: Polimorfism, ORM, m.m.
+      file: F09
+
 
 # Uppgifter
 
