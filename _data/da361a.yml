@@ -61,8 +61,8 @@ exercises:
     - name: 3. OOP i Python (2)
       file: L04
 
-#    - name: Laboration 4
-#      file: L04
+    - name: 4. Laboration, tävling
+      file: L04
 
-#    - name: Laboration 5
-#      file: L03
+    - name: 5. Mer OOP i Python
+      file: L06
