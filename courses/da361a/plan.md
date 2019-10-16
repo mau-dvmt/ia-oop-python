@@ -105,7 +105,7 @@ Labbtillfällena är i grunden fria att disponera, men i tabellen nedan anges s�
     <tr class="tenta odd">
         <td>13/10</td>
         <td></td>
-        <td><em><strong>Deadline: Inlämningsuppgift 1</strong></em></td>
+        <td><em><strong>Deadline: <a href="/courses/da361a/assignments/U01.html">Inlämningsuppgift 1</a></strong></em></td>
         <td></td>
     </tr>
   <tr class="lecture even">
@@ -144,7 +144,7 @@ Labbtillfällena är i grunden fria att disponera, men i tabellen nedan anges s�
     <tr class="tenta even">
         <td>1/11</td>
         <td></td>
-        <td><em><strong>Deadline: Inlämningsuppgift 2</strong></em></td>
+        <td><em><strong>Deadline: <a href="/courses/da361a/assignments/U02.html">Inlämningsuppgift 2</a></strong></em></td>
         <td></td>
     </tr>
     <tr class="tenta odd">
