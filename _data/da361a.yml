@@ -40,6 +40,9 @@ lectures:
     - name: Polimorfism, ORM, m.m.
       file: F09
 
+    - name: Mönster och datastrukturer, del 1
+      file: F10
+
 
 # Uppgifter
 
