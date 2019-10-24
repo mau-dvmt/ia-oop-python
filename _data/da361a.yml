@@ -69,3 +69,6 @@ exercises:
 
     - name: 5. Mer OOP i Python
       file: L06
+
+    - name: 6. Black Jack
+      file: L03

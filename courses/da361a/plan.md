@@ -131,7 +131,7 @@ Labbtillfällena är i grunden fria att disponera, men i tabellen nedan anges s�
     <tr class="lecture odd">
         <td>24/10</td>
         <td>13-17</td>
-        <td>Workshop - Case</td>
+        <td><a href="/courses/da361a/exercises/L03.html">Workshop - Case</a></td>
         <td>Anton</td>
     </tr>
     <tr class="lecture even">
