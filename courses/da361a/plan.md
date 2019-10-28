@@ -136,8 +136,8 @@ Labbtillfällena är i grunden fria att disponera, men i tabellen nedan anges s�
     </tr>
     <tr class="lecture even">
         <td rowspan="2">44</td>
-        <td>31/10</td>
-        <td>13-17</td>
+        <td>29/10</td>
+        <td>08-12</td>
         <td>Workshop - Case</td>
         <td>Johan</td>
     </tr>
