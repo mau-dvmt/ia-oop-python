@@ -79,5 +79,5 @@ exercises:
     - name: 6. Black Jack
       file: L03
 
-    - name: 7. Datastrukturer
+    - name: 7. Mönster
       file: L09
