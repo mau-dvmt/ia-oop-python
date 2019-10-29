@@ -37,11 +37,14 @@ lectures:
     - name: Konsistens mellan diagram och källkod
       file: F07
 
-    - name: Polimorfism, ORM, m.m.
+    - name: Polymorfism, ORM, m.m.
       file: F09
 
     - name: Mönster och datastrukturer, del 1
       file: F10
+
+    - name: Mönster och datastrukturer, del 2
+      file: F11
 
 
 # Uppgifter
@@ -75,3 +78,6 @@ exercises:
 
     - name: 6. Black Jack
       file: L03
+
+    - name: 7. Datastrukturer
+      file: L09
